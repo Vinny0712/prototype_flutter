@@ -1,0 +1,57 @@
+{
+    "@@locale": "en",
+
+
+    "loading": "loading ...",
+
+    "logOut": "Log out",
+
+    "logIn": "Log in",
+
+    "callForHelp": "Call for help",
+
+    "register": "Register",
+
+    "tutorial": "Tutorial",
+
+    "settings": "Settings",
+
+    "next": "Next",
+
+    "clear": "Clear",
+
+    "close": "Close",
+
+    "welcomeToSos": "Welcome to S.O.S",
+
+    "confirmAppLanguage": "Please confirm your App Language",
+
+    "addSpokenLanguage": "Please add your Spoken Languages in order of preference",
+
+    "welcomeDescription": "Join a community of seniors and volunteers as we move towards a more inclusive world in technology.",
+
+    "hereTo": "I am here to ...",
+
+    "seekHelp": "Seek Help",
+
+    "volunteer": "Volunteer",
+
+    "fillInDetails": "Please fill in your details",
+
+    "name": "Name:",
+
+    "enterName": "Enter your Name here",
+
+    "mobileNumber": "Mobile Number:",
+
+    "enterNumber": "Enter your Number here",
+
+    "password": "Password",
+
+    "enterPassword": "Enter your Password here",
+
+    "keyInPinCode": "Please enter the 6 digit code sent to:"
+
+
+
+}

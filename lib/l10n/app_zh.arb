@@ -1,0 +1,51 @@
+{
+     "loading": "加载中",
+
+     "logOut": "退出",
+
+     "logIn": "登录",
+
+     "callForHelp": "寻求帮助",
+
+  "register": "登记",
+
+  "tutorial": "教程",
+
+  "settings": "设置",
+
+  "next": "继续",
+
+  "clear": "删除所有",
+
+  "close": "关",
+
+  "welcomeToSos": "欢迎来到 S.O.S",
+
+  "confirmAppLanguage": "请确认您的应用语言",
+
+  "addSpokenLanguage": "请按优先顺序添加您的口语",
+
+  "welcomeDescription": "随着我们迈向更具包容性的技术世界，加入由老年人和志愿者组成的社区。",
+
+  "hereTo": "我是来...",
+
+  "seekHelp": "寻求帮助",
+
+  "volunteer": "志愿者",
+
+  "fillInDetails": "请填写您的详细信息",
+
+  "name": "名称:",
+
+  "enterName": "在此处输入您的姓名",
+
+  "mobileNumber": "手机号码:",
+
+  "enterNumber": "在此处输入您的号码",
+
+  "password": "密码",
+
+  "enterPassword": "在此处输入您的密码",
+
+  "keyInPinCode": "请输入发送到您手机号码的 6 位代码 "
+}

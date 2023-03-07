@@ -1,0 +1,51 @@
+{
+     "loading": "memuatkan",
+
+     "logOut": "log keluar",
+
+     "logIn": "log masuk",
+
+     "callForHelp": "minta pertolongan",
+
+  "register": "daftar",
+
+  "tutorial": "Tutorial",
+
+  "settings": "tetapan",
+
+  "next": "seterusnya",
+
+  "clear": "keluarkan semua",
+
+  "close": "tutup",
+
+  "welcomeToSos": "Selamat datang ke S.O.S",
+
+  "confirmAppLanguage": "Sila sahkan Bahasa Aplikasi anda",
+
+  "addSpokenLanguage": "Sila masukkan Bahasa Lisan anda mengikut urutan pilihan",
+
+  "welcomeDescription": "Bergabunglah dengan komuniti warga emas dan sukarelawan ketika kami menuju ke dunia teknologi yang lebih inklusif.",
+
+  "hereTo": "Saya di sini untuk ...",
+
+  "seekHelp": "mencari pertolongan",
+
+  "volunteer": "sukarelawan",
+
+  "fillInDetails": "Sila isi maklumat anda",
+
+  "name": "Nama:",
+
+  "enterName": "Masukkan Nama anda di sini",
+
+  "mobileNumber": "nombor telefon:",
+
+  "enterNumber": "Masukkan Nombor anda di sini",
+
+  "password": "kata laluan",
+
+  "enterPassword": "Masukkan Kata Laluan anda di sini",
+
+  "keyInPinCode": "Masukkan kod 6 digit yang dihantar ke nombor telefon bimbit anda "
+}

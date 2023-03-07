@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "726899281645",
+    "project_id": "eldtech-sos",
+    "storage_bucket": "eldtech-sos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726899281645:android:962088af27e7e1d6c7c6e4",
+        "android_client_info": {
+          "package_name": "com.eldtech.eldtech_sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726899281645-aput0lf7b720dnudfik4k499sjtgka4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePpEndG4qVq2JKB09C45e4tIPYlzTtzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726899281645-aput0lf7b720dnudfik4k499sjtgka4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726899281645-q44abnmhhmrdkqk3u9lumhmh2bfoe649.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eldtech.eldtechSos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
