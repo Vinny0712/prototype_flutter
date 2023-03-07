@@ -1,6 +1,6 @@
 # eldtech_sos
 
-SOS app
+This app is still underway and only consists of authentication flow implemented with Firebase.
 
 ## Getting Started
 
