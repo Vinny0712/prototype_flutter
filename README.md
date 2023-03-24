@@ -1,6 +1,6 @@
-# eldtech_sos
 
- authentication flow implemented with Firebase
+
+ authentication flow implemented with Firebase and Flutter using Dart
 
 ## Features implemented
 
