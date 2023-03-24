@@ -1,6 +1,6 @@
 
 
- authentication flow implemented with Firebase and Flutter using Dart
+ authentication flow implemented with Firebase and Flutter using Dart and BLOC architecture for state management
 
 ## Features implemented
 
